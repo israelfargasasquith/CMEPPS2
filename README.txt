@@ -1,2 +1,3 @@
-Hola, este es el proyecto a entregar, tenia otro pero estaba mal hecho.
-Menos mal que me di cuenta.
+Ahora el readme es una lista de To-do:
+1 Acabar la carrera
+2 Hacerme rico
