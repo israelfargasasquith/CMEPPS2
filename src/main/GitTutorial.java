@@ -6,7 +6,7 @@ public class GitTutorial {
 		System.out.println("Hola mundo, primer commit");
 		System.out.println("Creamos la branch 1");
 		System.out.println("Cambio 3 en branch 1");
-		System.out.println("Merge");
+		System.out.println("Merge done");
 	}
 	
 }
