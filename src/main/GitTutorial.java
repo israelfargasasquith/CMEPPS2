@@ -7,7 +7,7 @@ public class GitTutorial {
 		System.out.println("Creamos la branch 1");
 		System.out.println("Cambio 3 en branch 1");
 		System.out.println("Merge done");
-		System.out.println("Cambiamos el README");
+		System.out.println("Añadimos otro README");
 	}
 	
 }
